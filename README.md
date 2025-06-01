@@ -4,7 +4,7 @@ A Python-based app to digitize, secure, and streamline device tracking for front
 
 ## 🔍 Overview
 
-As a Retail Associate at Nike, I noticed a consistent pain point: our device (AD) checkout process was manual—pen and paper—and error-prone. It resulted in illegible logs, inaccurate timestamps, and costly device misplacement.
+As a Retail Associate at Nike, I noticed a consistent pain point: our device (AD) checkout process was manual (pen and paper 😵‍💫) and error-prone. It resulted in illegible logs, inaccurate timestamps, and costly device misplacement.
 
 To solve this, I designed and built the **Device Management Dashboard (DMD)** using Python and Replit.
 
